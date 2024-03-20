@@ -1,4 +1,5 @@
 # OpenVpn ubuntu
+
 bash open-vpn.sh
 cat or nano /root/clientname.ovpn
 CREATE FILE AND PASTE
